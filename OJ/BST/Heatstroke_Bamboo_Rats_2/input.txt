@@ -1,0 +1,9 @@
+3
+1 8 309
+6
+heatstroke 8
+heatstroke 8
+heatstroke 1
+heatstroke 309
+buy 5
+heatstroke 5
