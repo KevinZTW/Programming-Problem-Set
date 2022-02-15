@@ -5,7 +5,7 @@ int data[(int)(1e5)];
 int prefix[3000][(int)(1e5)];
 
 int main(void) {
-  freopen("input.txt", "r", stdin);
+  // freopen("input.txt", "r", stdin);
   int n, q;
   scanf("%d", &n);
   for (int i = 0; i < n; i++) {
